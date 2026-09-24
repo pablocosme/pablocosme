@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Pablo Vinícius
+# 👨🏻‍💻 Olá, eu sou Pablo Vinícius
 
 Tenho 19 anos e moro em **Crateús, Ceará**.
 
